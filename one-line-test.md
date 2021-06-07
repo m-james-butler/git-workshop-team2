@@ -1,2 +1,2 @@
 Hello world!
-Frederick is based.
+A la volunté du peuple!
