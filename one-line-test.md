@@ -1,2 +1,2 @@
 Hello world!
-Frederick is biased.
+Wilhelm is spicy.
