@@ -1,2 +1,2 @@
 Hello world!
-Frederick is based.
+Frederick is biased.
